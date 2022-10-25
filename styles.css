@@ -1,0 +1,18 @@
+.pertama{
+	text-align: center;
+	font-family: serif;
+	font-weight: normal;
+	text-transform: uppercase;
+	border-bottom: 1px solid #57b1dc;
+	margin-top: ;
+}
+.kedua{
+	color: #d1633c;
+	font-size: 1em;
+}
+.nama{
+	margin: center;
+}
+body {
+	background-color: #faf2e4; margin: 0 10%; font-family: sans-serif;
+}
